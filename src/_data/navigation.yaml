@@ -1,10 +1,7 @@
----
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Distrieche
+    url: https://distrieche1.netlify.app
+  - text: LubricantesPro
+    url: http://www.lubricantespro.com
   - text: Blog
-    url: "/blog"
+    url: /blog
